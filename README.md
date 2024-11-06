@@ -7,7 +7,7 @@
     <style>
         body {
             /* Set a background image that feels more relevant to business and Facebook Ads */
-            background-image: url('https://images.pexels.com/photos/1181345/pexels-photo-1181345.jpeg'); /* Background with people working */
+            background-image: url('https://images.pexels.com/photos/1181345/pexels-photo-1181345.jpeg'); /*  */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
